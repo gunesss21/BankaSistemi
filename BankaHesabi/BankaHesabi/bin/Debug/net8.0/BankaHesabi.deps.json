@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BankaHesabi/1.0.0": {
+        "runtime": {
+          "BankaHesabi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankaHesabi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

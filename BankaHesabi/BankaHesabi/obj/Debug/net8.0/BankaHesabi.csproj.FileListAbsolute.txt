@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/bin/Debug/net8.0/BankaHesabi
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/bin/Debug/net8.0/BankaHesabi.deps.json
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/bin/Debug/net8.0/BankaHesabi.runtimeconfig.json
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/bin/Debug/net8.0/BankaHesabi.dll
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/bin/Debug/net8.0/BankaHesabi.pdb
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/obj/Debug/net8.0/BankaHesabi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/obj/Debug/net8.0/BankaHesabi.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/obj/Debug/net8.0/BankaHesabi.AssemblyInfo.cs
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/obj/Debug/net8.0/BankaHesabi.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/obj/Debug/net8.0/BankaHesabi.dll
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/obj/Debug/net8.0/refint/BankaHesabi.dll
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/obj/Debug/net8.0/BankaHesabi.pdb
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/obj/Debug/net8.0/BankaHesabi.genruntimeconfig.cache
+/Users/svage/RiderProjects/BankaHesabi/BankaHesabi/obj/Debug/net8.0/ref/BankaHesabi.dll
